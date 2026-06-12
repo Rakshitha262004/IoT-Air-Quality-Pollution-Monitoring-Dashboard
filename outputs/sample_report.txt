@@ -1,0 +1,18 @@
+AIR QUALITY MONITORING REPORT
+========================================
+Generated on: 2026-06-12 21:39:24
+Total readings: 20
+
+Status Distribution:
+  Good      :   5 readings (25.0%)
+  Moderate  :   5 readings (25.0%)
+  Poor      :   5 readings (25.0%)
+  Hazardous :   5 readings (25.0%)
+
+Latest Reading:
+  timestamp: 2026-06-12 21:39:23
+  mq135_value: 3401
+  temperature_C: 27.8
+  humidity_%: 50.5
+  status: Hazardous
+  alert: ALERT! HAZARDOUS air quality detected! Take immediate precautions.

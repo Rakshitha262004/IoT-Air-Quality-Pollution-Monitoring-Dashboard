@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs (optional - remove if you want to commit sample data)
+# data/*.csv
+# outputs/*.png
