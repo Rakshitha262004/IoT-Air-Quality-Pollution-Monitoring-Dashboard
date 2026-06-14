@@ -138,8 +138,8 @@ Alert       : ALERT! HAZARDOUS air quality detected! Take immediate precautions.
 ![chart](outputs/air_quality_chart.png)
 |dashboard|graphs|
 |---------|------|
-|![dashboard](Screenshot(1065).png)|![dashboard](Screenshot(1066).png)|
-|![dashboard](Screenshot(1067).png)|![dashboard](Screenshot(1068).png)|
+|![dashboard](Screenshot (1065).png)|![dashboard](Screenshot (1066).png)|
+|![dashboard](Screenshot (1067).png)|![dashboard](Screenshot (1068).png)|
 
 ## Demo Video 
 Link : https://drive.google.com/file/d/1mW9bCgXzCYWvEHgBGM8d9uCVy83FWp-k/view?usp=sharing
