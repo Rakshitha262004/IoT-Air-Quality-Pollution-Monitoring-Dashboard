@@ -135,12 +135,14 @@ Air Quality : Hazardous
 Alert       : ALERT! HAZARDOUS air quality detected! Take immediate precautions.
 
 ## 🖼️ Screenshots
-*(Add screenshots in the `images/` folder and reference them here)*
-- Circuit diagram / Wokwi simulation
-- Serial monitor output
-- ThingSpeak dashboard charts
-- CSV log sample
-- Generated trend chart
+![chart](outputs/air_quality_chart.png)
+|dashboard|graphs|
+|---------|------|
+|![dashboard](Screenshot(1065).png)|![dashboard](Screenshot(1066).png)|
+|![dashboard](Screenshot(1067).png)|![dashboard](Screenshot(1068).png)|
+
+## Demo Video 
+Link : https://drive.google.com/file/d/1mW9bCgXzCYWvEHgBGM8d9uCVy83FWp-k/view?usp=sharing
 
 ## 🔮 Future Improvements
 - Add MQ2 sensor for smoke/LPG-specific detection
